@@ -10,8 +10,15 @@ abstract class Samochod()
 
     void Jedź()
     {
-        if (uruchomiony==1 and paliwo==1)
-        
+        return;
+
     }
     
+}
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello World!");
+    }
 }
